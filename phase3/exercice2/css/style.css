@@ -1,0 +1,7 @@
+#boite-12 {
+    width: 250px;
+    height: 250px;
+    background-color: bisque;
+    padding: 20px;
+    border: 2px solid black;
+}

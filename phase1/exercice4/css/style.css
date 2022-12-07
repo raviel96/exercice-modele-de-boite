@@ -1,0 +1,8 @@
+#boite-4 {
+    height: 250px;
+    width: 250px;
+    background-color: orange;
+    padding: 20px;
+    border: 15px solid blueviolet;
+    margin: 25px;
+}

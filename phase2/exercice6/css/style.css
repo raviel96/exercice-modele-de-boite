@@ -1,0 +1,11 @@
+#boite-10 {
+    width: 250;
+    height: 250px;
+    background-color: chartreuse;
+    padding: 20px;
+    border: 2px solid crimson;
+    background:
+        url("../../img/fond-bleu.jpg") no-repeat,
+        url("../../img/logo.png") no-repeat bottom right
+        ;
+}

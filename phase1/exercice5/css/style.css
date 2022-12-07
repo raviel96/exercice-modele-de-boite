@@ -1,0 +1,9 @@
+#boite-border-box {
+    height: 250px;
+    width: 250px;
+    background-color: deeppink;
+    padding: 20px;
+    border: 15px solid greenyellow;
+    margin: 25px;
+    box-sizing: border-box;
+}

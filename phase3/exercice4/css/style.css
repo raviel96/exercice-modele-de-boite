@@ -1,0 +1,7 @@
+#boite-14 {
+    min-height: 250px;
+    width: 250px;
+    background-color: tomato;
+    padding: 20px;
+    border: 2px solid black;
+}

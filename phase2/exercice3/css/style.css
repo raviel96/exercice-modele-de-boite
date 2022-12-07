@@ -1,0 +1,9 @@
+#boite-7 {
+    height: 250px;
+    width: 250px;
+    background-color: black;
+    padding: 20px;
+    border: 2px solid orangered;
+    background-image: url("../../img/fond-bleu.jpg");
+    background-position: bottom right;
+}
